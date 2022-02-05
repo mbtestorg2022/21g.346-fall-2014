@@ -4,22 +4,219 @@ title: Calendar
 uid: 99209583-cbe1-b9c0-ccbd-5151f95a38ca
 ---
 
-| SES # | SUJETS | DATES CLÉS |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**I. Paris, « Capitale de.. »**{{< /td-colspan >}} |||
-| 1 | Introduction | &nbsp; |
-| 2 | Haussmannisation: Paris et ailleurs | Réponse 1 à rendre |
-| 3 | Les Expositions universelles | Réponse 2 à rendre |
-| 4 | Capitale de l'empire (with Special Guest Adriana Ortega) | Réponse 3 à rendre |
-| {{< td-colspan 3 >}}**II. Immigration Et Paris Vu D'ailleurs**{{< /td-colspan >}} |||
-| 5 | Paris-Amérique | Réponse 4 à rendre |
-| 6 | Cours annulé (Columbus Day) | &nbsp; |
-| 7 | Paris-Afrique | Réponse 5 à rendre |
-| 8 |  {{< br >}}{{< br >}} Paris Electric {{< br >}}{{< br >}} Cours annulé - Conférence de Prof. S. Hollis Clayson à 17h (facultatif) {{< br >}}{{< br >}}  | Propositions des projets à rendre |
-| 9 | Paris-Asie | Réponse 6 à rendre |
-| 10 | Cours annulé (Veteran's Day) | &nbsp; |
-| 11 | Paris jeune 1968, événement global | Réponse 7 à rendre |
-| {{< td-colspan 3 >}}**III. Copies, Icones, Images**{{< /td-colspan >}} |||
-| 12 | Paris pour enfants | Réponse 8 à rendre |
-| 13 | L'Avenir de Paris |  {{< br >}}{{< br >}} Réponse 9 à rendre {{< br >}}{{< br >}} Projets à rendre {{< br >}}{{< br >}}  |
-| 14 | Images, icônes, et copies (+diner ensemble) |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+SUJETS
+{{< thclose >}}
+{{< thopen >}}
+DATES CLÉS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**I. Paris, « Capitale de.. »**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Haussmannisation: Paris et ailleurs
+{{< tdclose >}}
+{{< tdopen >}}
+Réponse 1 à rendre
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Les Expositions universelles
+{{< tdclose >}}
+{{< tdopen >}}
+Réponse 2 à rendre
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Capitale de l'empire (with Special Guest Adriana Ortega)
+{{< tdclose >}}
+{{< tdopen >}}
+Réponse 3 à rendre
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**II. Immigration Et Paris Vu D'ailleurs**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Paris-Amérique
+{{< tdclose >}}
+{{< tdopen >}}
+Réponse 4 à rendre
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Cours annulé (Columbus Day)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Paris-Afrique
+{{< tdclose >}}
+{{< tdopen >}}
+Réponse 5 à rendre
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Paris Electric
+
+Cours annulé - Conférence de Prof. S. Hollis Clayson à 17h (facultatif)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Propositions des projets à rendre
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Paris-Asie
+{{< tdclose >}}
+{{< tdopen >}}
+Réponse 6 à rendre
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Cours annulé (Veteran's Day)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Paris jeune 1968, événement global
+{{< tdclose >}}
+{{< tdopen >}}
+Réponse 7 à rendre
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**III. Copies, Icones, Images**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Paris pour enfants
+{{< tdclose >}}
+{{< tdopen >}}
+Réponse 8 à rendre
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+L'Avenir de Paris
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Réponse 9 à rendre
+
+Projets à rendre
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Images, icônes, et copies (+diner ensemble)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
