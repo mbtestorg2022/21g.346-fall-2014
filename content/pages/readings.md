@@ -105,7 +105,7 @@ Marc Allegret. « [L'expo universelle de 1900](http://www.ina.fr/video/CAB830105
 
 Higonnet, Patrice. « Paris exposition : du mythe à la fantasmagorie. » Chapitre XIII dans _Paris, capitale du monde_. Tallandier, 2006, pp. 313–38.
 
-Benjamin, Walter. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Paris capital du XIXe siècle." (PDF)](http://classiques.uqac.ca/classiques/benjamin_walter/paris_capitale_19e_siecle/Benjamin_Paris_capitale.pdf) (1939): 1–2 and 9–11. \[Vous allez lire un extrait - la partie B "Grandville ou les expositions universelles."\]
+Benjamin, Walter. ["Paris capital du XIXe siècle." (PDF)](http://classiques.uqac.ca/classiques/benjamin_walter/paris_capitale_19e_siecle/Benjamin_Paris_capitale.pdf) (1939): 1–2 and 9–11. \[Vous allez lire un extrait - la partie B "Grandville ou les expositions universelles."\]
 
 Lisez au moins 5 documents du site: [Collyon sur l'Exposition de 1900](https://web.archive.org/web/20140630080426/http:/exposition-universelle-paris-1900.com/Accueil).
 
